@@ -2,7 +2,7 @@
 
 settings:
   # Enable this if you would like to see more verbose debug messages
-  debug: false
+  debug: true
 
 # Disable elements you do not plan to use.
 elements:
@@ -27,7 +27,7 @@ elements:
   # Enable VirtualFurnace elements
   # Note: Only available on 1.13+
   # This feature is semi-experimental, please use with caution
-  virtual-furnace: false
+  virtual-furnace: true
 
   # Enable Text Component elements
   text-component: true
